@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\terg\\source\\repos\\FizzBuzzWeb\\FizzBuzzWeb.csproj": {}
+    "C:\\Users\\terg\\Source\\Repos\\zadanie-dotnet\\FizzBuzzWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\terg\\source\\repos\\FizzBuzzWeb\\FizzBuzzWeb.csproj": {
+    "C:\\Users\\terg\\Source\\Repos\\zadanie-dotnet\\FizzBuzzWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\terg\\source\\repos\\FizzBuzzWeb\\FizzBuzzWeb.csproj",
+        "projectUniqueName": "C:\\Users\\terg\\Source\\Repos\\zadanie-dotnet\\FizzBuzzWeb.csproj",
         "projectName": "FizzBuzzWeb",
-        "projectPath": "C:\\Users\\terg\\source\\repos\\FizzBuzzWeb\\FizzBuzzWeb.csproj",
+        "projectPath": "C:\\Users\\terg\\Source\\Repos\\zadanie-dotnet\\FizzBuzzWeb.csproj",
         "packagesPath": "C:\\Users\\terg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\terg\\source\\repos\\FizzBuzzWeb\\obj\\",
+        "outputPath": "C:\\Users\\terg\\Source\\Repos\\zadanie-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\terg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

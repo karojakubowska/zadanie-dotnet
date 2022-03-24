@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lgVZdjogOPrs3la7LY058hjucRULVjcCMqDGlNu0Yzthp4LCJNV/kG3chPtMYSVDTOptp/T0Er/F0ZZjrFcHpA==",
+  "dgSpecHash": "TiQMvnZDlXG9E00dVV0vcpGkWT2Ii41dW47hElummXm9nxxAVIiHt1jTfc7arf8qPkCsQ8SwejmkjWb06uhLWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\terg\\source\\repos\\FizzBuzzWeb\\FizzBuzzWeb.csproj",
+  "projectFilePath": "C:\\Users\\terg\\Source\\Repos\\zadanie-dotnet\\FizzBuzzWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
